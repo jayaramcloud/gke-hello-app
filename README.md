@@ -35,7 +35,7 @@ Updated property [core/project].
 
 jay@SHAW073312:~/.kube$ kubectl get nodes
 NAME                                             STATUS   ROLES    AGE     VERSION
-gke-virtusa-cluster-default-pool-808e0d91-hpdj   Ready    <none>   16d     v1.21.5-gke.1302
-gke-virtusa-cluster-default-pool-808e0d91-lpcl   Ready    <none>   4d23h   v1.21.5-gke.1302
+gke-mycompany-cluster-default-pool-808e0d91-hpdj   Ready    <none>   16d     v1.21.5-gke.1302
+gke-mycompany-cluster-default-pool-808e0d91-lpcl   Ready    <none>   4d23h   v1.21.5-gke.1302
 ```
 
